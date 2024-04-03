@@ -50,4 +50,9 @@ jailbreaking chatgpt : 막아놓은 규정들을 어기고 답하도록 하는 �
 hallucination : 실제로 존재하지 않거나 정확하지 않은 정보를 만들어 내는 것
 
 
+2024.04.03
+
+temperature
+max_tokens
+
 
